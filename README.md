@@ -1,12 +1,12 @@
 # Flareact Template - Material UI 
 
-Based off the original flareact-template, fleareact with styled-components example and code from the @mui project.
+Based off the original [flareact-template](https://github.com/flareact/flareact-template), flareact with styled-components [example] (https://github.com/flareact/flareact/tree/canary/examples/with-styled-components) and code from the [@mui](https://mui.com/) project.
 
 
 Get started with Flareact by installing [Wrangler](https://github.com/cloudflare/wrangler) and running:
 
 ```bash
-wrangler generate my-project https://github.com/flareact/flareact-template
+wrangler generate my-project https://github.com/shaunm/flareact-mui
 ```
 
 Next, fill in `account_id` and `name` inside your `wrangler.toml` file.
@@ -15,7 +15,7 @@ Finally, run `yarn dev` to see magic happen 🎉
 
 Go edit a page in your `/pages` directory to get started 👍
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button?paid=true)](https://deploy.workers.cloudflare.com/?url=https://github.com/flareact/flareact-template&paid=true)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button?paid=true)](https://deploy.workers.cloudflare.com/?url=https://github.com/shaunm/flareact-mui&paid=true)
 
 
 
