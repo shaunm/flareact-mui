@@ -1,6 +1,6 @@
-name = "chque"
+name = "flareact-mui"
 type = "webpack"
-account_id = "72cb7e68dcaf59fab0d17b01c38bd6ef"
+account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
